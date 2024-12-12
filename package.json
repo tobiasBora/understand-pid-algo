@@ -16,7 +16,7 @@
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
 		"autoprefixer": "^10.4.20",
 		"mdsvex": "^0.11.2",
-		"rehype-katex": "^7.0.1",
+		"rehype-katex-svelte": "^1.2.0",
 		"remark-math": "^3.0.1",
 		"svelte": "^5.0.0",
 		"svelte-check": "^4.0.0",
