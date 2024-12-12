@@ -4,8 +4,10 @@ title: Understanding the PID algorithm
 
 ## Introduction
 
-The goal of this page is to understand the PID algorithm more deeply than just saying "a term is for the proportional, another for the integral, and one for the derivative, bye!". We want to actually understand how each term influences the result. Hence, in the following, we will use the following running example: we want to control the temperature $T$ of a room, by tuning the power $P$ of some heating device, in order to reach a final goal temperature $T_G$.
+The goal of this page is to understand the PID algorithm more deeply than just saying "a term is for the proportional, another for the integral, and one for the derivative, bye!". We want to actually understand how each term influences the result. Hence, in the following, we will use the following running example: we want to control the temperature $T = \frac{1}{2}$ (or $$T$$) of a room, by tuning the power $P$ of some heating device, in order to reach a final goal temperature $T_G$.
 
-## 
+$$x + \frac{1}{\sqrt{2 + \delta}} \in \mathbb{N}$$
+
+## Perfectly linear function
 
 The chart is rendered inside our MDsveX document.
